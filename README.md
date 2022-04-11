@@ -30,7 +30,7 @@ This command will show all the list of commands that has been implemented.
 
 ## Installation 
 In terminal write <b>
-git clone https://github.com/aniket-jha-byte/File-Organizer.git </b>
+git clone https://github.com/aniket-jha-byte/File-organizer.git </b>
 ## Commands
 1. peppy tree
 2. peppy organize "folder path"
